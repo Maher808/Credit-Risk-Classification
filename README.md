@@ -4,7 +4,7 @@
 1) Purpose of the Analysis
 The purpose of this analysis was to build machine learning models to predict credit risk based on financial information provided in the dataset. The goal was to develop models that could accurately classify loans as either healthy (low risk) or high-risk based on various financial features.
 
-) Financial Information and Prediction
+2) Financial Information and Prediction
 The dataset contained financial information such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The target variable we needed to predict was the loan_status, which categorized loans as either 0 (healthy) or 1 (high-risk).
 
 3) Basic Information about Variables
